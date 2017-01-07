@@ -1,0 +1,6 @@
+com\glarimy\jpa\Author.class
+com\glarimy\jpa\Book.class
+com\glarimy\jpa\Publisher.class
+com\glarimy\jpa\TextBook.class
+com\glarimy\jpa\Name.class
+com\glarimy\jpa\Address.class

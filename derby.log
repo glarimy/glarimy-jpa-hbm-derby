@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 07 09:12:12 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0159-7704-fa5b-0000072a1460 
+on database directory D:\glarimy\derby-db\library with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/D:/glarimy/maven-repo/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=D:\glarimy\workspace\glarimy-jpa-hbm-derby
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
